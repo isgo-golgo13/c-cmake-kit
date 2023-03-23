@@ -1,4 +1,4 @@
-# c-cmake-packaged-projects
+# c-cmake-kit
 C and CMake Project Spin-Up Git Architecture (Single-Exe, Single-Lib, Single-Exe-Multi-Lib, Multi-Lib) Projects
 
 Git CLI to register Git repo upstream to Github (Local Git to Git repo)
